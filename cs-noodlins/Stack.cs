@@ -1,12 +1,12 @@
 using System;
 
 namespace cs_noodlins {
-    public class Queue<T> {
-        private SinglyLinkedList<T> List;        
 
+    public class Stack<T> {
+        private SinglyLinkedList<T> List;
         public int Size { get { return List.Size; } }
 
-        public Queue(){
+        public Stack(){
             List = new SinglyLinkedList<T>();
         }
 
@@ -14,25 +14,21 @@ namespace cs_noodlins {
             return Size == 0;
         }
 
-        public void Enqueue(T data) {
-            List.InsertLast(data);
+        public void Push(T data) {
+            List.InsertFirst(data);
         }
 
-        public T Dequeue() {
+        public T Pop() {
             var val = List.GetFirst();
             List.DeleteFirst();
             return val;
         }
 
-        public T PeekFirst() {
+        public T Peek(){
             return List.GetFirst();
         }
 
-        public T PeekLast() {
-            return List.GetLast();
-        }
-
-        public void Clear(){
+        public void Clear() {
             List.Clear();
         }
     }
