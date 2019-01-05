@@ -28,7 +28,7 @@ namespace cs_noodlins
             return GetNodeAt(index).data;
         }
 
-        public void InsertBeginning(T data){ 
+        public void InsertFirst(T data){ 
             var newNode = new Node<T>(data);
 
             if(CreateHeadIfNotExists(newNode)){
@@ -40,7 +40,7 @@ namespace cs_noodlins
             Size++;
         }
 
-        public void InsertEnd(T data){
+        public void InsertLast(T data){
             var newNode = new Node<T>(data);
 
             //If this is the first node
@@ -72,12 +72,12 @@ namespace cs_noodlins
             }                          
         } 
 
-        public void DeleteBeginning() {
+        public void DeleteFirst() {
             Head = Head.next;
             Size--;
         } 
 
-        public void DeleteEnd() {
+        public void DeleteLast() {
             var previousNode = GetNodeAt((Size - 1) - 1);
             previousNode.next = null;
             Tail = previousNode;
