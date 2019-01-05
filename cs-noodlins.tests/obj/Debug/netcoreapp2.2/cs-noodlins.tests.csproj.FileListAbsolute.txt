@@ -1,0 +1,17 @@
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.csprojAssemblyReference.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.csproj.CoreCompileInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.AssemblyInfoInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.AssemblyInfo.cs
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.tests.deps.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.tests.runtimeconfig.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.tests.runtimeconfig.dev.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.tests.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.tests.pdb
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\bin\Debug\netcoreapp2.2\cs-noodlins.pdb
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.csproj.CopyComplete
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins.tests\obj\Debug\netcoreapp2.2\cs-noodlins.tests.pdb

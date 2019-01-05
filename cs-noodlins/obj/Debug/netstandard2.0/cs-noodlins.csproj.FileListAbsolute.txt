@@ -1,0 +1,9 @@
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\bin\Debug\netstandard2.0\cs-noodlins.deps.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\bin\Debug\netstandard2.0\cs-noodlins.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\bin\Debug\netstandard2.0\cs-noodlins.pdb
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.csprojAssemblyReference.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.csproj.CoreCompileInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.AssemblyInfoInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.AssemblyInfo.cs
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins\obj\Debug\netstandard2.0\cs-noodlins.pdb
