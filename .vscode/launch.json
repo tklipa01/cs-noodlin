@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/<insert-target-framework-here>/<insert-project-name-here>.dll",
+            "program": "${workspaceFolder}/cs-noodlins-run/bin/Debug/netcoreapp2.2/cs-noodlins-run.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",

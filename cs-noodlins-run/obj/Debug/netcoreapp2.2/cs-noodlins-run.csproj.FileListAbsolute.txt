@@ -1,0 +1,14 @@
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins-run.deps.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins-run.runtimeconfig.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins-run.runtimeconfig.dev.json
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins-run.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins-run.pdb
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\bin\Debug\netcoreapp2.2\cs-noodlins.pdb
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.csprojAssemblyReference.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.csproj.CoreCompileInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.AssemblyInfoInputs.cache
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.AssemblyInfo.cs
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.csproj.CopyComplete
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.dll
+C:\Users\travi\Projects\cs-noodlin\cs-noodlins-run\obj\Debug\netcoreapp2.2\cs-noodlins-run.pdb

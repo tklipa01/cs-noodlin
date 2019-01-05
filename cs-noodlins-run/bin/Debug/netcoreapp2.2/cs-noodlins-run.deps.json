@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "cs-noodlins-run/1.0.0": {
+        "dependencies": {
+          "cs-noodlins": "1.0.0"
+        },
+        "runtime": {
+          "cs-noodlins-run.dll": {}
+        }
+      },
+      "cs-noodlins/1.0.0": {
+        "runtime": {
+          "cs-noodlins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cs-noodlins-run/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cs-noodlins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
