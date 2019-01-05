@@ -16,6 +16,10 @@ namespace cs_noodlins
             }
         }
 
+        public bool IsEmpty() {
+            return Size == 0;
+        }
+
         public T GetFirst() {
             return Head.data;
         }
@@ -97,7 +101,12 @@ namespace cs_noodlins
             var previous = GetNodeAt(index - 1);
             previous.next = nodeToDelete.next;
             Size--;
-        }     
+        }   
+
+        public void Clear() {
+            Head = null;
+            Size = 0;
+        }  
 
         public void PrintList() {
             Print(Head);

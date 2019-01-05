@@ -72,5 +72,11 @@ namespace cs_noodlins.tests
             list.DeleteAt(2);
             Assert.NotEqual(2, list.GetAt(2));
         }
+
+        [Fact]
+        public void ShouldClearAllValues() {
+            list.Clear();
+            Assert.True(list.IsEmpty());
+        }
     }
 }
