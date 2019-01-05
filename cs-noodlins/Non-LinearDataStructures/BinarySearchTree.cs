@@ -23,10 +23,6 @@ namespace cs_noodlins {
             }
         }
 
-        public void Delete(T value){
-            
-        }
-
         public bool Find(T value) {
             if(value.CompareTo(Data) < 0 && Left != null) {
                 Console.WriteLine(Data);
@@ -82,10 +78,6 @@ namespace cs_noodlins {
                 Right.DFSInOrder();
             }
             Console.WriteLine(Data);
-        }
-
-        private RemoveNode() {
-
         }
 
         private void Clear() {
