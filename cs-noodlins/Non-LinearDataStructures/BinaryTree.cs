@@ -1,12 +1,13 @@
 using System;
+using System.Collections.Generic;
 
 namespace cs_noodlins {
-    public class BinaryTree<T> {        
+    public class BinaryTree<T> where T : IComparable<T> {        
         public T Data;
         public BinaryTree<T> Left;
         public BinaryTree<T> Right;
         public BinaryTree(T value) {
-            Data = value;        
+            Data = value;      
         }
 
         public void InsertLeft(T value) {
@@ -82,6 +83,15 @@ namespace cs_noodlins {
                     queue.Enqueue(currentNode.Right);
                 }
             }
+        }
+
+        public bool IsSymmetric() => IsMirror(Left, Right);
+
+        private bool IsMirror(BinaryTree<T> left, BinaryTree<T> right) {
+            if(left == null || right == null) {
+                return left == null && right == null;                
+            }
+            return left.Data.CompareTo(right.Data) == 0 && IsMirror(left.Left, right.Right) && IsMirror(left.Right, right.Left);
         }
     }
 }

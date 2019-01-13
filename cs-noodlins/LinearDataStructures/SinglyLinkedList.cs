@@ -16,21 +16,13 @@ namespace cs_noodlins
             }
         }
 
-        public bool IsEmpty() {
-            return Size == 0;
-        }
+        public bool IsEmpty() => Size == 0;
 
-        public T GetFirst() {
-            return Head.data;
-        }
+        public T GetFirst() => Head.data;        
 
-        public T GetLast() {
-            return Tail.data;
-        }        
+        public T GetLast() => Tail.data;           
 
-        public T GetAt(int index) {
-            return GetNodeAt(index).data;
-        }
+        public T GetAt(int index) => GetNodeAt(index).data;        
 
         public void InsertFirst(T data){ 
             var newNode = new Node<T>(data);
@@ -108,9 +100,7 @@ namespace cs_noodlins
             Size = 0;
         }  
 
-        public void PrintList() {
-            Print(Head);
-        }    
+        public void PrintList() => Print(Head);   
 
         private bool CreateHeadIfNotExists(Node<T> newNode) {
             if(Head == null){

@@ -10,13 +10,9 @@ namespace cs_noodlins {
             List = new SinglyLinkedList<T>();
         }
 
-        public bool IsEmpty() {
-            return Size == 0;
-        }
+        public bool IsEmpty() => Size == 0;        
 
-        public void Push(T data) {
-            List.InsertFirst(data);
-        }
+        public void Push(T data) => List.InsertFirst(data);        
 
         public T Pop() {
             var val = List.GetFirst();
@@ -24,12 +20,8 @@ namespace cs_noodlins {
             return val;
         }
 
-        public T Peek(){
-            return List.GetFirst();
-        }
+        public T Peek() => List.GetFirst();        
 
-        public void Clear() {
-            List.Clear();
-        }
+        public void Clear() => List.Clear();
     }
 }
